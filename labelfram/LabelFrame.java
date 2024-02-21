@@ -16,7 +16,7 @@ public class LabelFrame extends JFrame {
         label1.setIcon(ifmt);
         label1.setHorizontalTextPosition(SwingConstants.CENTER);
         label1.setVerticalTextPosition(SwingConstants.BOTTOM);
-        label1.setToolTipText("this is label3");
+        label1.setToolTipText("this is label1");
         add(label1);
     }   
 }
