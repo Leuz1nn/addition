@@ -13,7 +13,6 @@ public class LoginProgram extends JFrame {
         setDefaultCloseOperation(EXIT_ON_CLOSE);
         setLayout(null);
 
-        // Adicionando imagem
         ImageIcon imageIcon = new ImageIcon(getClass().getResource("ifmt.png"));
         labelImage = new JLabel(imageIcon);
         labelImage.setBounds(10, 10, 150, 150);
